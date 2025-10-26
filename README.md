@@ -82,6 +82,15 @@ Used **KPI cards** and **trend lines** for easy performance tracking.
 
 ---
 
+## 📊 Final Dashboard Preview
+
+<img width="1133" height="636" alt="Screenshot " src="https://github.com/user-attachments/assets/f25faccb-335b-414c-a0d7-820520032db9" />
+
+---
+
+<img width="1133" height="637" alt="Screenshot " src="https://github.com/user-attachments/assets/2face64d-1652-43b0-adc2-72bf7e546662" />
+
+---
 ## 📂 Repository Structure
 
 - [**Train.csv**](Train.csv) | Raw dataset containing e-commerce delivery details including shipment mode, warehouse block, product cost, discount, and customer ratings.  
